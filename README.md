@@ -1,3 +1,6 @@
+![windows приложение в linux](https://github.com/ZILosoft/Windows-on-linux-server/raw/master/files/img.png)
+
+
 # Запускаем программы Windows на удаленном Linux сервере
 
 Была у меня как то проблемка, везде используется linux но вот одна программа
